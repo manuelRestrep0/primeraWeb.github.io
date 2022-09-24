@@ -1,0 +1,26 @@
+h2 {
+    font-family: 'Bungee Spice', cursive;
+    color: yellow;
+}
+tittle {
+    font-family: 'Nabla', cursive;
+    font-size: 120px;
+}
+#div-gif-principal {
+    background-image: url(imagenFondo.gif);
+    width: 50%;
+}
+p {
+    font-family: 'Roboto Mono', monospace;
+    color: yellow;
+    
+}
+#imagen-gif-db {
+    width: 60%;
+}
+#imagen-gif-op {
+    width: 60%;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/6e/b0/2b/6eb02b0b1d8f1293e28048dfc994737f.jpg);
+}
